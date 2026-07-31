@@ -1,4 +1,4 @@
-# Transferable Cross-scale Reasoning for Mechanistic Drug Interaction Understanding(TRACER)
+# Transferable Cross-scale Reasoning for Mechanistic Drug Interaction Understanding(VisualDDI)
 This is the code necessary to run experiments on the TRACER algorithm.
 
 ## Abstract
